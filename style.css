@@ -2,12 +2,12 @@
 
 /* suggestion for choosing color palettes: https://colorhunt.co/ */
 :root {
-    --bg-color: #030637;
-    --salmon: #cf6c5d;
+    --bg-color: #bf28ec;
+    --salmon: #8728c7;
     --white: #FFFFFF;
-    --active-btn: #b1506d;
-    --inactive-btn: #522546;
-    --text-bg: #210F37;
+    --active-btn: #9b17a7;
+    --inactive-btn: #ad59b8;
+    --text-bg: #7015a5;
 }
 
 body {
